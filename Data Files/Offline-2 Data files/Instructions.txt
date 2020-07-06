@@ -1,0 +1,29 @@
+Assignment on Neural Network
+
+Pls find the details in the lecture slide.
+
+Upload only your program by 11 am on Monday, 3 Dec 2018.
+
+any programming language can be used.
+
+you can bring your own laptop.
+
+Number of classes and features may vary.
+
+show results (accuracy, misclassified examples, training time) varying network structures (layers, neurons and activation functions).
+
+Do not make internet your guru. try to implement according to your text book.
+proper naming convention for variables and functions and standard documentation of the code are welcome.
+Use your ID while naming files
+
+Data filse for Assignment on Neural Network.
+
+Pls note that 
+
+1. the numbers of features, classes, records are not mentioned in the files. you have to extract from the data.
+
+2. evaluation files will be different but have the same format with varying numbers of features, classes and records.  
+
+3. during evaluation, you have to run the program downloaded from your moodle account
+
+4. You will not allowed to change the program or data file during evaluation on your designated test date
